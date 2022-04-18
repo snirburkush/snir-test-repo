@@ -1,2 +1,0 @@
-user='snir'
-password='apiiro'
