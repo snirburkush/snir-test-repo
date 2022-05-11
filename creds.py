@@ -1,2 +1,0 @@
-user='apiiro'
-password='somepass'
