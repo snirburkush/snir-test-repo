@@ -1,1 +1,2 @@
-var='a'
+user='snir'
+password='12345'
