@@ -1,1 +1,1 @@
-var password = "ok";
+using Microsoft.Extensions.Logging;
